@@ -15,4 +15,6 @@ conda install -c conda-forge cufflinks-py
 pip3 show paramiko
 pip3 install paramiko --upgrade
 pip3 show paramiko
+
+pip install yfinance --upgrade
 ```
